@@ -3,13 +3,16 @@
 ## Build and Run
 
 ### Compile the project
-
+```
 mvn clean compile
+```
 
 ### Run the project
-
+```
 mvn exec:java
+```
 
 ### Run tests
-
+```
 mvn test
+```
